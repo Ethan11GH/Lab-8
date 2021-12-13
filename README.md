@@ -1,2 +1,2 @@
 # Lab-8
-FPIT1064- Web Development
+Web Development
